@@ -1,0 +1,36 @@
+# Ignorar arquivos de banco de dados
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite2
+
+# Ignorar backups de banco de dados
+*.bak
+*.backup
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios temporários ou de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Ignorar diretórios de uploads
+uploads/
+
+# Ignorar arquivos grandes (por exemplo, dados de produção)
+*.csv
+*.json
+*.gz
+*.tar.gz
