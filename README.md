@@ -18,11 +18,5 @@ cd seu-repositorio
 pip install -r requirements.txt
 
 ├── dados_ifood/              # Arquivos .csv e .json fornecidos no case
-├── notebooks/                # Notebooks com análise e visualização
-├── scripts/                  # Scripts .py para carga, limpeza e análise
-├── relatorio.pdf             # Documento final da análise
 ├── requirements.txt
 └── README.md
-
-Certifique-se de que os arquivos de dados (.csv.gz, .json.gz) estão na pasta dados_ifood/.
-
