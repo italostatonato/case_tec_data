@@ -30,7 +30,7 @@ Thumbs.db
 uploads/
 
 # Ignorar arquivos grandes (por exemplo, dados de produção)
-/dados_ifood/*
 *.gz
 *.parquet
 *.csv
+*.json
