@@ -8,8 +8,6 @@
 *.bak
 *.backup
 
-# Ignorar arquivos de log
-*.log
 
 # Ignorar diretórios temporários ou de cache
 __pycache__/
